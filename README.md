@@ -1,2 +1,2 @@
 # slidedecks
-Slide Decks from presentations and other things
+Slide decks from presentations and other things
